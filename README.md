@@ -6,6 +6,6 @@ The project was competing in the 1st edition of [Design the Ultimate Urban Green
 
 ## The AvantGarden
 
-Learn more about the AvantGarden project in a [separate repository](link).
+Learn more about the AvantGarden project in a [separate repository](https://github.com/bartosjiri/bohemian-avantgardeners-project).
 
 ![AvantGarden](https://www.avantgardeners.cz/img/architecture/avantgarden_front.jpg)
