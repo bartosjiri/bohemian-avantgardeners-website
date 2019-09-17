@@ -20,7 +20,7 @@
 			<h4 class="section-subtitle">Hi, we are the Bohemian AvantGardeners, a team of dreamers, inovators, developers, and workers.</h4>
 			<div class="section-text">
 				<p>We signed up for the challenge as strangers, many of us not knowing what to expect, but driven by the opportunity to make a difference. What we represent now is a passionate group united under a shared vision and enduring effort. All of us bring something diffent to the table, prepared to look beyond our individual fields for new solutions. We believe this is our greatest asset.</p>
-				<p><a href="team.php" class="section-link">See all members of the team <span class="text-red">→</span></a></p>
+				<p><a href="team" class="section-link">See all members of the team <span class="text-red">→</span></a></p>
 			</div>
 		</div>
 	</div>
@@ -38,7 +38,7 @@
 			<div class="section-text">
 				<p>Starting with what used to be a prison facility, it was our job to redesign that building to feed the community in the new quarter. We started by creating a cooperative to connect people, local farmers, and businesses. Out of this cooperation springs The AvantGarden; a place where we grow and buy healthy food, learn new skills, find meaningful employment, celebrate, and connect with our community. Inside the AvantGarden we designed a holistic food web of mutually beneficial cycles of aquaponics, plants, mushrooms, and insects that are not reliant on any input other than local waste streams. When we harvest, we just head downstairs to the AvantMarket. The AvantMarket is like having a farmers market in your neighborhood year round. We’ve designed our own production to complement, not compete with other local farmers.</p>
 				<p>The AvantGarden is created by the people for the people, so winding through the building are a variety of multi-use social spaces for community members to have cooking classes, study rooms, hacker spaces and celebrations. We noticed the Netherlands is a bit elevationally challenged so we designed a path to the rooftop where you can relax with a fresh juice among the trees of our garden. As part of our mission to give back, several motivated people will be selected to train with the Avant Gardeners, learning the ins and outs of modern urban agriculture and encouraged to go out and get started producing food and building community in their own neighborhoods. It’s our hope that the Bajes Quarter is the first of many eco-urban villages in Amsterdam and around the world.</p>
-				<p><a href="avantgarden.php" class="section-link">Learn more about The AvantGarden <span class="text-red">→</span></a></p>
+				<p><a href="avantgarden" class="section-link">Learn more about The AvantGarden <span class="text-red">→</span></a></p>
 			</div>
 		</div>
 	</div>

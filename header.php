@@ -75,12 +75,12 @@
 
 <header class="<?php if($page=='home'){echo 'header_index';} ?><?php if($page=='avantgarden'){echo 'header_avantgarden';} ?><?php if($page=='team'){echo 'header_team';} ?><?php if($page=='contact'){echo 'header_index';} ?>">
 	<nav>
-		<a href="index.php"><img class="nav-logo" src="img/logo/logo_white.png"></a>
+		<a href="/"><img class="nav-logo" src="img/logo/logo_white.png"></a>
 		<ul class="nav-list">
-			<li class="<?php if($page=='home'){echo 'nav-list-active';} ?>"><a href="index.php">Home</a></li>
-			<li class="<?php if($page=='avantgarden'){echo 'nav-list-active';} ?>"><a href="avantgarden.php">The AvantGarden</a></li>
-			<li class="<?php if($page=='team'){echo 'nav-list-active';} ?>"><a href="team.php">Team</a></li>
-			<li class="<?php if($page=='contact'){echo 'nav-list-active';} ?>"><a href="contact.php">Contact</a></li>
+			<li class="<?php if($page=='home'){echo 'nav-list-active';} ?>"><a href="/">Home</a></li>
+			<li class="<?php if($page=='avantgarden'){echo 'nav-list-active';} ?>"><a href="avantgarden">The AvantGarden</a></li>
+			<li class="<?php if($page=='team'){echo 'nav-list-active';} ?>"><a href="team">Team</a></li>
+			<li class="<?php if($page=='contact'){echo 'nav-list-active';} ?>"><a href="contact">Contact</a></li>
 		</ul>
 	</nav>
 	<div class="header-content wrapped">

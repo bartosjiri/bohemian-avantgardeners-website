@@ -8,7 +8,7 @@
 			<div class="section-text">
 				<p>Individually we specialise in various fields of agriculture, waste management, economics, social dynamics, and architecture, but as a team it gives us a unique opportunity to understand the future of food production better. We believe that behind real changes stands a cooperation of many and that answers can be found through building human-scale solutions. The nature inspires us to experiment and develop spaces that make people and environment healthier.</p>
 				<p>Our common efforts extend even beyond the team activity. We are dreamers, inovators, developers, and workers, which is reflected in our everyday lives. We are dedicated to a cause of creating a better world for us and the upcoming generations, and we want you to be a part of it.</p>
-				<p><a href="contact.php" class="section-link">Interested in working with us? <span class="text-red">→</span></a></p>
+				<p><a href="contact" class="section-link">Interested in working with us? <span class="text-red">→</span></a></p>
 			</div>
 		</div>
 	</div>
