@@ -2,20 +2,19 @@
 <html>
 <head>
 	<meta charset="UTF-8" />
-	<meta name="author" content="Refarm.cz">
+	<meta name="author" content="Bohemian AvantGardeners">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
   <title>
     <?php if($page=='home'){echo 'Home | ';} ?>
     <?php if($page=='avantgarden'){echo 'The AvantGarden | ';} ?>
     <?php if($page=='team'){echo 'Bohemian AvantGardeners | ';} ?>
     <?php if($page=='contact'){echo 'Contact | ';} ?>
-    AvantGardeners.cz
+    AvantGardeners
   </title>
 
 	<meta itemprop="name" content="Bohemian AvantGardeners" />
 	<meta name="description" content="We came together as a team with a shared passion to radically change the story of how food is produced in our neighborhood.">
-  <link rel="canonical" href="http://avantgardeners.cz<?php $url = $_SERVER['REQUEST_URI']; echo $url ?>">
-	<meta itemprop="image" content="http://avantgardeners.cz/img/social/og-image.jpg" />
+	<meta itemprop="image" content="img/social/og-image.jpg" />
 
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125058230-1"></script>
 	<script>
@@ -25,14 +24,14 @@
 	  gtag('config', 'UA-125058230-1');
 	</script>
 
-	<link rel="apple-touch-icon" sizes="180x180" href="/img/icons/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/img/icons/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/img/icons/favicon-16x16.png">
-  <link rel="manifest" href="/img/icons/site.webmanifest">
-  <link rel="mask-icon" href="/img/icons/safari-pinned-tab.svg" color="#1b1d1f">
-  <link rel="shortcut icon" href="/img/icons/favicon.ico">
+	<link rel="apple-touch-icon" sizes="180x180" href="img/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="img/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="img/icons/favicon-16x16.png">
+  <link rel="manifest" href="img/icons/site.webmanifest">
+  <link rel="mask-icon" href="img/icons/safari-pinned-tab.svg" color="#1b1d1f">
+  <link rel="shortcut icon" href="img/icons/favicon.ico">
   <meta name="msapplication-TileColor" content="#1b1d1f">
-  <meta name="msapplication-config" content="/img/icons/browserconfig.xml">
+  <meta name="msapplication-config" content="img/icons/browserconfig.xml">
   <meta name="theme-color" content="#1b1d1f">
 
 	<script type="application/ld+json">
@@ -40,8 +39,8 @@
 		  "@context": "http://schema.org",
 			"@type": "Organization",
 			"name": "Bohemian AvantGardeners",
-			"url": "http://avantgardeners.cz",
-			"logo": "http://avantgardeners.cz/img/logo/refarm_logo_small.png"
+			"url": "https://avantgardeners.netlify.app",
+			"logo": "https://avantgardeners.netlify.app/img/logo/refarm_logo_small.png"
 	  }
   </script>
 	<script type="application/ld+json">
@@ -50,7 +49,7 @@
 			"@type" : "WebSite",
 			"name" : "Bohemian AvantGardeners",
 			"alternateName" : "Bohemian AvantGardeners - We came together as a team with a shared passion to radically change the story of how food is produced in our neighborhood.",
-			"url" : "http://avantgardeners.cz"
+			"url" : "https://avantgardeners.netlify.app"
 	  }
   </script>
 
@@ -58,12 +57,12 @@
   <meta property="og:image:height" content="1974">
   <meta property="og:title" content="Bohemian AvantGardeners">
   <meta property="og:description" content="We came together as a team with a shared passion to radically change the story of how food is produced in our neighborhood.">
-  <meta property="og:url" content="http://avantgardeners.cz">
-  <meta property="og:image" content="http://avantgardeners.cz/img/social/og-image.jpg">
+  <meta property="og:url" content="https://avantgardeners.netlify.app">
+  <meta property="og:image" content="img/social/og-image.jpg">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Bohemian AvantGardeners">
   <meta name="twitter:description" content="We came together as a team with a shared passion to radically change the story of how food is produced in our neighborhood.">
-  <meta name="twitter:image" content="http://avantgardeners.cz/img/social/twitter-image.jpg">
+  <meta name="twitter:image" content="img/social/twitter-image.jpg">
 
   <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 

@@ -88,7 +88,7 @@ Designing an urban greenhouse isn’t enough. So we asked ourselves: <i>“How d
 			<h4 class="section-subtitle">We envision the Bajes Kwartier as an eco-urban village, and the AvantGarden as its heart.</h4>
 			<div class="section-text">
 				<p>The result of our work can be hardly covered in a few paragraphs. For the challenge, we have submited a document with over 50 pages, where we explain all of our thoughts and ideas, including technical details, community dynamics, cooperative economics, energy flows circurality and more. If you are interested in the project, feel free to have a look at our full proposition. </p>
-				<p><a href="http://avantgardeners.cz/files/AvantGarden-Dossier.pdf" target="_blank" class="section-link">Download a PDF file with all the details <span class="text-red">→</span></a></p>
+				<p><a href="https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/AvantGarden-Dossier.pdf" target="_blank" class="section-link">Download a PDF file with all the details <span class="text-red">→</span></a></p>
 			</div>
 		</div>
 	</div>
